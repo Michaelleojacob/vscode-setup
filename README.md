@@ -1,5 +1,7 @@
 # vscode-setup
 
+
+
 ### theme
 
 - `Dracula Refined` Matheus Calegaro
@@ -19,4 +21,3 @@
 - `Pug Beautify` mrmInc
 - `REST CLIENT` Huachao Mao
 - `Tailwind CSS IntelliSense` Tailwind labs
-- `vscode-icons` VSCode Icons Team
